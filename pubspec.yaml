@@ -34,8 +34,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  build_web_compilers: '>=2.0.0 <3.0.0'
-  pedantic: ^1.11.0
+  #build_web_compilers: '>=2.0.0 <3.0.0'
+  #pedantic: ^1.11.0
 
   # uncomment to use remote repos
   # assets_audio_player: ^3.0.0
